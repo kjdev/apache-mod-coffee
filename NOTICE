@@ -1,0 +1,11 @@
+
+CoffeeScript:
+CoffeeScript is a little language that compiles into JavaScript.
+The original software is available from
+  http://coffeescript.org/
+
+v8:
+javascript engine is provided by the Javascript V8 Engine,
+which is open source software, copyright by Google Inc.
+The original software is available from
+  http://code.google.com/p/v8/
