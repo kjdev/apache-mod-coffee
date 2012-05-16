@@ -29,7 +29,6 @@ apache path.
 
 * --with-apxs=PATH  [default=yes]
 * --with-apr=PATH  [default=yes]
-* --with-apreq2=PATH  [default=yes]
 
 ## Configration ##
 
